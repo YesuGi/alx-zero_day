@@ -1,0 +1,4 @@
+*~
+```
+
+This rule tells Git to ignore any file ending with `~`.
